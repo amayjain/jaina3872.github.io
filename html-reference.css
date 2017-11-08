@@ -13,6 +13,43 @@ color: navy;
   background-color:khaki;
 }
 
-h2{
+h2 {
   background-color:yellow;
 }
+
+.display {
+    width: 350px;
+    height: 100px;
+    background-color: Lime;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+.display2 {
+    width: 350px;
+    height: 250px;
+    background-color: Lime;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+.display3 {
+    width: 350px;
+    height: 200px;
+    background-color: Lime;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+.image2{
+  width: 350px;
+    height: 300px;
+    background-color: Lime;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+.mp{
+  margin: auto;
+  width: 10%;
+  border: 5px solid maroon;
+}
+
+
+
