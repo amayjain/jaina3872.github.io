@@ -1,0 +1,29 @@
+h1{
+  text-align:center;
+  width:170px;
+  border:solid 6px purple;
+  margin:auto;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: plum;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.topnav a:hover:not(.active) {
+    background-color:mediumslateblue;
+    color: black;
+}
+
+.active {
+    background-color: lavender;
+}
