@@ -27,3 +27,21 @@ h1{
 .active {
     background-color: lavender;
 }
+
+.cen{
+  border:solid 2px lime;
+  margin:auto;
+}
+
+#lt{
+  color:maroon;
+}
+.floatstyle {
+	float: right;
+ 	width: 300px;
+}
+.floatstyle1 {
+	float: left;
+	width: 300px;
+}
+
