@@ -38,8 +38,24 @@ h1{
 }
 .floatstyle {
 	float: right;
+ 	width:400px;
 }
 .floatstyle1 {
 	float: left;
+width:300px;
 }
 
+.tac{
+  margin:auto;
+}
+.columnside {
+  float: right;
+    padding: 24px;
+    width: 25%;
+}
+
+.cr {
+  float: left;
+    padding: 24px;
+    width: 25%;
+}
