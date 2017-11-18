@@ -4,7 +4,12 @@ h1{
   border:solid 6px purple;
   margin:auto;
 }
-
+#sr{
+  text-align:center;
+  width:180px;
+  border:solid 6px purple;
+  margin:auto;
+}
 .topnav {
     overflow: hidden;
     background-color: plum;
