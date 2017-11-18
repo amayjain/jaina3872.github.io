@@ -64,3 +64,15 @@ width:300px;
     padding: 24px;
     width: 25%;
 }
+.tablestyle, tr, th, td{
+  border: 5px solid blue;
+  border-collapse: collapse;
+  padding: 5px;
+  text-align: left;
+}
+.ts{
+  background-color:lightcoral;
+}
+td{
+  background-color: PaleGoldenRod ;
+}
